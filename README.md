@@ -2,7 +2,7 @@
 This is the official implementation of "RAU-Net: Richard’s curve based Attention-aided U-Net for Medical Image Segmentation".
 
 ### Overall workflow:
-![model-architecture](https://github.com/user-attachments/assets/34bf8e3e-bbfe-4959-a796-950f730c7e40)
+![model architecture](https://github.com/user-attachments/assets/5072f7d9-19b8-4815-aa1c-256b08752d3d)
 
 
 ## Authors :sunglasses:*
