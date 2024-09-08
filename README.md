@@ -1,4 +1,5 @@
 # RAU-Net: Richard's curve based Attention-aided U-Net for Medical Image Segmentation
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaMajumder/RAU-Net-Richards-curve-based-Attention-aided-U-Net-for-Medical-Image-Segmentation/blob/main/3dircadb-liver.ipynb) and [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaMajumder/RAU-Net-Richards-curve-based-Attention-aided-U-Net-for-Medical-Image-Segmentation/blob/main/brats-2020.ipynb) and [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SuryaMajumder/RAU-Net-Richards-curve-based-Attention-aided-U-Net-for-Medical-Image-Segmentation/blob/main/busi.ipynb)<br/>
 This is the official implementation of "RAU-Net: Richard’s curve based Attention-aided U-Net for Medical Image Segmentation".
 
 Accepted for publication at [ICONIP-2024](https://iconip2024.org/) Conference
